@@ -8,6 +8,8 @@ This is intentional, and mostly just to make life a little more fun. Life's too 
 
 The library is still high quality and has an awesome test suite; it's just written more like Ruby than like Java :)
 
+Lol, no sorry, I was just kidding. Of COURSE WE FOLLOW THE STANDARDS, OTHERWISE WE'RE INSANE AND SILLY.
+
 ## Code Style
 
 This library borrows most structural choices from PSR-2 in terms of tabs vs. spaces, where there should/shouldn't be whitespace, and where to put braces.
